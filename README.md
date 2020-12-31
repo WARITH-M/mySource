@@ -1,0 +1,2 @@
+# mySource
+资源
